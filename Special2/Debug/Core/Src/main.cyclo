@@ -1,0 +1,6 @@
+../Core/Src/main.c:65:6:displayHEX	2
+../Core/Src/main.c:80:5:main	1
+../Core/Src/main.c:127:6:SystemClock_Config	3
+../Core/Src/main.c:165:6:HAL_ADC_ConvCpltCallback	3
+../Core/Src/main.c:190:6:HAL_ADC_ConvHalfCpltCallback	3
+../Core/Src/main.c:220:6:Error_Handler	1
